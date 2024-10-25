@@ -1,0 +1,15 @@
+O que sao variaveis?
+
+R= Variáveis são elementos que armazenam valores em programação e funcionam como caixas
+
+Quais sao os principais tipos?
+
+R=  >string -> Sao Textos ou caracteres 
+    >Int -> Numeros Inteiros
+    >float -> Numeors Fracionarios
+    >boleano -> V ou F 
+
+Qual a deferenca de variaveis e constantes?
+
+R= A defierenca é que as variaveis podem ter os seus valores alterados ao decorrer do tempo. Ja as constantes nao podem ter o seu valor alterado ao decorrer do tempo.
+
